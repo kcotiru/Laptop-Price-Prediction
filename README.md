@@ -7,7 +7,7 @@ This project implements **DANCS**, a Deep Artificial Neural Costing System desig
 ## 📁 Project Structure
 
 ```
-dancs/
+root/
 ├── Laptop_DANCS.ipynb          # Jupyter notebook for training and analysis
 ├── Updated_laptop_dancs.py     # Main Python script for model building and inference
 ├── raw_laptop_price_php.csv    # Raw dataset containing original laptop listings
