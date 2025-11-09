@@ -1,6 +1,6 @@
 # Laptop Price Prediction 
 
-This project implements **DANCS**, a Deep Artificial Neural Costing System designed to predict laptop prices based on key specifications such as RAM, CPU, storage type, GPU, screen size, and operating system. The system uses machine learning to provide accurate price estimation in Philippine Pesos (PHP).
+This project is designed to predict laptop prices based on laptop specifications such as RAM, CPU, storage type, GPU, screen size, and operating system. The system uses machine learning to provide accurate price estimation in Philippine Pesos (PHP).
 
 ---
 
