@@ -73,28 +73,5 @@ The dataset contains the following attributes:
 
 ---
 
-## 📊 Model Overview
-
-The DANCS model is a **deep learning regression model** that:
-- Uses dense layers with ReLU activation.
-- Applies dropout regularization to prevent overfitting.
-- Trains using Mean Squared Error (MSE) loss and Adam optimizer.
-
-Performance is evaluated using metrics such as:
-- Mean Absolute Error (MAE)
-- Root Mean Squared Error (RMSE)
-- R² Score
-
----
-
-## 📈 Example Output
-
-After training, the system outputs:
-- Model summary
-- Loss/accuracy plots
-- Evaluation metrics on test data
-- Optional prediction samples comparing actual vs. predicted prices
-
----
 
 
