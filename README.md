@@ -19,16 +19,6 @@ root/
 
 ---
 
-## 🧠 Features
-
-- Cleans and preprocesses raw laptop specification data.  
-- Encodes categorical variables such as CPU, GPU, and OS.  
-- Trains a deep neural network to predict laptop prices.  
-- Evaluates performance using separate training, validation, and testing splits.  
-- Supports both Jupyter-based experimentation and standalone script execution.
-
----
-
 ## ⚙️ Requirements
 
 Install dependencies before running the code:
@@ -115,6 +105,3 @@ A 3rd-Year College Research Team, Holy Angel University
 
 ---
 
-## 🪪 License
-
-This project is for academic and research purposes only.
